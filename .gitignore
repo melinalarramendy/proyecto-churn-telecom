@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+env/
+.vscode/
+
+# Datos sensibles
+data/raw/
+*.csv
+*.xlsx
+
+# Modelos grandes
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
