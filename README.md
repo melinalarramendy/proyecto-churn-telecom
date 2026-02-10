@@ -41,5 +41,8 @@ proyecto-churn-telecom/
 ---
 
 ## 📈 Resultados
-
+- **Accuracy:** 82%
+- **Recall:** 96% 
+- **Precision:** 75%
+- **F1-Score:** 84%
 
